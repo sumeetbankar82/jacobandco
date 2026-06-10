@@ -1,0 +1,36 @@
+.body{
+	margin:0%;
+	padding:0%;
+}
+.abc {
+	width:100%;
+	height:600px;
+	background-color:aqua;
+	background-image:url("https://www.datocms-assets.com/99008/1748529142-bugatti-tourbillon-2-1.webp?auto=compress%2Cformat&dpr=2&w=1265");
+	background-size:cover;
+	background-attachment:fixed;
+}
+.dd {
+	width:100%;
+	height:600px;
+	background-color:aqua;
+	background-image:url("https://image.mux.com/Qw43XeJCpbhMZk3I00pv2Dk3UWK7UiAWb/thumbnail.webp?time=0");
+	background-size:cover;
+	background-attachment:fixed;
+}
+.ee {
+	width:100%;
+	height:600px;
+	background-color:aqua;
+	background-image:url("https://image.mux.com/xAgFCd73PXRPpxAIr9payP6NQjgUky3I/thumbnail.webp?time=0");
+	background-size:cover;
+	background-attachment:fixed;
+}
+.ff {
+	width:100%;
+	height:600px;
+	background-color:aqua;
+	background-image:url("https://www.datocms-assets.com/99008/1748529142-bugatti-tourbillon-2-1.webp?auto=compress%2Cformat&dpr=2&w=1265");
+	background-size:cover;
+	background-attachment:fixed;
+}
